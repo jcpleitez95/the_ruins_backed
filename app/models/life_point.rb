@@ -1,0 +1,2 @@
+class LifePoint < ApplicationRecord
+end

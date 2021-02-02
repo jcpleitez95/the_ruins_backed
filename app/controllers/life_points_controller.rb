@@ -1,0 +1,2 @@
+class LifePointsController < ApplicationController
+end
