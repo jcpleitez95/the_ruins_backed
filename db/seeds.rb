@@ -22,7 +22,7 @@ Ammo.create(map_id: Map.first.id, image: "https://i.ibb.co/QQQBqDc/barrel.png", 
 
 
 25.times do
-    Enemy.create(map_id: Map.first.id, enemy_sprite: "https://c3kspa.dm.files.1drv.com/y4p5DKVmH_d9gg4GF9D4uPk5TOzxJV7ouN6G7dp7nETVA-6Ijuxljnm9wtaI5RGI1fgyfWNPqXLMJTJjwbNXGc6UTO0NMaeWUqIW0Vfdj_kM_rl-_AZmGyC4sndlC6Y-s8l5FeIDAKOsK1myBwX9iC0wKC5SzyVAWmJM0VsbTXfByYuQwIWuHgQ-RmwPcFv9hclhakaa2R0uE-KKbPwLM2ms6VED_1rTPwGnHR24kz6EEI/enemy.png?psid=1", hp: 100)
+    Enemy.create(map_id: Map.first.id, enemy_sprite: "https://c3kspa.dm.files.1drv.com/y4p1BrOn_c9asD5TQXe-wC-fA7PXe7iDVTizuRLn-TWUSpOI8w6hMPJEAAFyrBMgpxkgj0D2fP1ANOcRhl1RnVtwI8FYd0bJSPnJ5BUNZGdBzpDdYS16E6GCFcDyfvqF4m4mYRKJKXSw4-USH4AaBlQzbrfsjsrLqr5z5RYuvl7Z0VIgi5_BIX8Nc0yqpjHmUbZl0XDCxJLVD8SSutyimTxIe_7PcEKCfFtFCVkJxs74jM/enemy.png?psid=1", hp: 100)
 end
 
 2.times do 
